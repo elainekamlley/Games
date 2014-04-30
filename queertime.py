@@ -2,6 +2,8 @@
 # queertime.py
 # This is a python script that is a trivia game. It asks multiple choice questions on various queer history and issues.
 # Main commands used are conditionals and escape commands like tabs and line breaks. 
+#
+# I will add more questions shortly
 # ======================
 # Test 1: If script prints "Let's spend some Queer Time", then pass
 # Test 2: If script allows the user to enter and store their answer, then pass
